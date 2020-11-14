@@ -1,6 +1,8 @@
-# ejenaru.github.io
+ejenaru.github.io
 
-###### Hey there! This is my webpage :smiley:
+#Irene Díaz Fossaty
+
+###### Hey there! This is my webpage
 
 ## Table of Contents
 * [About me](#about-me)
@@ -12,7 +14,7 @@
 ## About me
 
 
-My name is Irene Díaz Fossaty and I have recently decided to make myself a developer.
+My name is Irene and I have recently decided to make myself a developer.
 I've allways used some of my free time to learn how to program simple things, make some easy 
 games in RPG maker and practice in CTF events for fun. Nothing special.
 
@@ -34,7 +36,7 @@ version control (I think it will be usefull in long term).
 
 A lot of my learning process is going to be self-taught, so I'll try my best to keep my code clean and organiced.
 
-This is basically me. I hope you find this repo usefull for your learning process too. :smiley:
+This is basically me. I hope you find this repo usefull for your learning process too.
 
 ###### _P.S.: I'm not a native english speaker. Sometimes my code/comments may be poorly written or simply in spanish._
 
